@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: ASHU ART AND STUDIOS
       color: text-dark
-    subtitle: ASHU ART AND STUDIO
+    subtitle: ''
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
