@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: ''
+      text: ASHU ART AND STUDIOS
       color: text-dark
     subtitle: ASHU ART AND STUDIO
     text: >
